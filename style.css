@@ -1,0 +1,13 @@
+/* Add @font-face rule to generated web fonts .woff/.woff2 */
+body {
+  
+}
+
+h1, h2, h3, h4 {
+  font-family: "Brush Script";
+}
+
+blockquote {
+  font-size: 25px;
+  /* using custom @font-face */
+}
